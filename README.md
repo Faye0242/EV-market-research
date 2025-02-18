@@ -7,13 +7,17 @@ The rapid development of EV market triggers by different factors, including gove
 My Final Business Goal： Create New clients(Find out silent/potential clients), Retain previous clients(what are their concerns)
 Analyze sales growth, market share compared to traditional vehicles and geographical distribution of charging stations.
 
-# EV market research
-## Data Resource
+Data Sources:
 https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2024#global-ev-data
-
 https://www.eia.gov/tools/faqs/faq.php?id=93&t=3
 
-## 1. Question: What demographic factors most significantly influence the adoption of electric vehicles?
+
+# EV market research
+
+### 1. Visualization of EV sales market share of different countries in Tableau
 EV sales market share rank in 52 countries.pdf
+### 2. Create Business metric systems of EV market
+
+### 3. Experiment of Causual Inference between policy support and EV sales market share growth
 
 # EV consumer behavior research

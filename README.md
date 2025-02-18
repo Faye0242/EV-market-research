@@ -1,4 +1,4 @@
-# EV-market and Consumer Behavior research 
+# EV-Market and Consumer Behavior Research 
 
 As technologies rapidly innovated and consumers in various market focuses more on green energy, we have heard and seen so many news of electrical vehicles. Not only many famous automobile brands have begun to invest in the development and sale of electric vehicles, but also many emerging brands specializing in the sale of EV have attracted consumers' attention in the automobile market. Especially a famous Chinese Tech company called Xiaomi published its first EV vehile on 03/2024, which has sparked a frenzy on the Internet.
 
@@ -12,7 +12,7 @@ https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2024#glob
 https://www.eia.gov/tools/faqs/faq.php?id=93&t=3
 
 
-# EV market research
+# EV Market Research
 
 ### 1. Visualization of EV sales market share of different countries in Tableau
 EV sales market share rank in 52 countries.pdf
@@ -20,4 +20,4 @@ EV sales market share rank in 52 countries.pdf
 
 ### 3. Experiment of Causual Inference between policy support and EV sales market share growth
 
-# EV consumer behavior research
+# EV Consumer Behavior Research

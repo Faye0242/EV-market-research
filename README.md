@@ -23,3 +23,5 @@ EV sales market share rank in 52 countries.pdf
 ### 4. Prediction analysis of EV market growth
 
 # EV Consumer Behavior Research
+
+### 1. What are typical features of EV consumers? 

@@ -1,4 +1,4 @@
-# EV-Market and Consumer Behavior Research 
+# EV-Market-and-Consumer-Behavior-Research 
 
 As technologies rapidly innovated and consumers in various market focuses more on green energy, we have heard and seen so many news of electrical vehicles. Not only many famous automobile brands have begun to invest in the development and sale of electric vehicles, but also many emerging brands specializing in the sale of EV have attracted consumers' attention in the automobile market. Especially a famous Chinese Tech company called Xiaomi published its first EV vehile on 03/2024, which has sparked a frenzy on the Internet.
 
